@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@page { size: Letter; margin: 0.42in 0.55in; }
+* { box-sizing: border-box; }
+body { font-family: "DejaVu Sans", Arial, sans-serif; color: #16202e; margin: 0; font-size: 9.7pt; line-height: 1.31; }
+.band { background: #0d1b2e; color: #fff; padding: 11px 16px 9px; border-top: 8px solid #e87722; }
+.band h1 { margin: 0; font-size: 19pt; letter-spacing: .2px; }
+.band .sub { color: #b9c9dd; font-size: 10.5pt; margin-top: 3px; }
+h2 { font-size: 10.5pt; text-transform: uppercase; letter-spacing: 1.1px; color: #e87722; margin: 10px 0 3px; border-bottom: 1.5px solid #e87722; padding-bottom: 2px; }
+p { margin: 4px 0; }
+ul { margin: 3px 0 3px 16px; padding: 0; }
+li { margin: 2.5px 0; }
+.cols { display: table; width: 100%; }
+.col { display: table-cell; width: 50%; vertical-align: top; }
+.col.left { padding-right: 14px; }
+table.cost { border-collapse: collapse; width: 100%; margin-top: 4px; }
+table.cost td { border-top: 1px solid #d5dce4; padding: 3px 4px; }
+table.cost td.r { text-align: right; font-weight: bold; white-space: nowrap; }
+.status { background: #fdf1e6; border: 1px solid #e87722; padding: 8px 12px; margin-top: 12px; }
+.status b { color: #b35a12; }
+.small { font-size: 8.8pt; color: #5a6a7d; margin-top: 10px; }
+strong.k { color: #0d1b2e; }
+</style></head><body>
+
+<div class="band">
+<h1>Tygart-OS on Meta Muse: The Fact-Gated Fleet</h1>
+<div class="sub">Meta Global AI Developer Hackathon · Startup Track · Tygart Media — Will Tygart, with Glint (his AI chief of staff)</div>
+</div>
+
+<h2>The problem</h2>
+<p>Publishing at machine speed breaks facts quietly. A single AI editing pass invents plausible, confident, <em>wrong</em> "fixes" — and no human can hand-check thousands of live pages. Our six-site fleet (4,415 pages) needed an editor that works at fleet scale <strong class="k">without ever grading its own homework</strong>.</p>
+
+<h2>What we built — two systems on Meta's Muse models</h2>
+<p><strong class="k">1. The Trio.</strong> A three-pass pipeline on <strong class="k">muse-spark-1.3</strong>: a <strong class="k">Scout</strong> (low effort) flags suspect claims → a <strong class="k">Fixer</strong> (medium effort) drafts corrections → an <strong class="k">Adjudicator</strong> (max effort) acts as a pure fact gate, striking anything it cannot ground verbatim in the source. The separation is the invention: the model that proposes never approves.</p>
+<p><strong class="k">2. The Hopper + translator routers.</strong> Everything incoming — recordings, documents, links — lands in one dumb intake box. A per-target router learns each destination's template, routes the item, and reads back confirmation; exceptions surface in one place instead of vanishing.</p>
+
+<h2>What it did — real production, Oct 26 – Nov 2, on the hackathon's credits</h2>
+<ul>
+<li><strong class="k">4,415 published pages</strong> across 6 sites read for monetization fit → <strong class="k">2,769 strong product candidates</strong> — the candidate layer for the free / $7 / $17 download ladder now shipping across the fleet.</li>
+<li><strong class="k">Full-site fact sweeps:</strong> Continuity Hub, 93 pages → 647 adjudicated fixes; Risk Coverage Hub, 201 pages → 1,415 fixes; converted into <strong class="k">36 staged work orders</strong> for human-tapped execution.</li>
+<li><strong class="k">174 working-session recordings mined:</strong> 3,093 window reads across three reading pools; 245 transcription calls, 138,144 words, <strong class="k">$3.20 total</strong>.</li>
+<li><strong class="k">Consensus miner:</strong> 339 findings certified by verbatim quote validation against sources — 4.8% of proposals dropped by the validation, on purpose.</li>
+</ul>
+
+<div class="cols">
+<div class="col left">
+<h2>Cost — every run receipted</h2>
+<table class="cost">
+<tr><td>Counted spend of the $153.31 credit envelope</td><td class="r">$102.35</td></tr>
+<tr><td>Standard trio, per page</td><td class="r">≈ $0.12</td></tr>
+<tr><td>Contributor tier, per page</td><td class="r">≈ $0.0025</td></tr>
+<tr><td>Routing decision (medium), per recording</td><td class="r">≈ $0.025</td></tr>
+</table>
+<p>Production shape that fell out: contributor tier for fleet sweeps, standard-tier adjudicator on money pages.</p>
+</div>
+<div class="col">
+<h2>What we learned — feedback to Meta</h2>
+<ul>
+<li>The medium-effort fixer hallucinates fixes <em>fluently</em>. Only the max-effort gate makes output shippable — effort tiering is a trust architecture, not just a cost knob.</li>
+<li>Medium is the sweet spot for routing decisions; past ~3k reasoning tokens you buy strictness, not facts.</li>
+<li>Wonder-as-judge failed its trial and was dropped. Structured feedback filed in FEEDBACK-TO-META.md.</li>
+</ul>
+</div>
+</div>
+
+<div class="status"><b>Status:</b> Meta Model API <b>restored and verified live Tue Nov 3</b> (model list returned 200; a paid muse-spark-1.3-contributor chat call returned 200). Submission target: <b>Tue Nov 3, 9:00 AM PT</b> · hard deadline Wed Nov 4, 9:00 PM ET · demo ≈ 3 minutes, assembled from the run record. Final counted spend: $102.35 of $153.31.</div>
+
+<div class="small">Full record: NIGHT-LEDGER.md (every run, purpose, and receipt) · TRIO-COSTING.md · FEEDBACK-TO-META.md — workspace/out/model-bakeoff/. All work ran on real production content for Tygart Media's publishing fleet; nothing was staged for the demo.</div>
+
+</body></html>
