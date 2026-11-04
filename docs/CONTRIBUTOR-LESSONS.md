@@ -82,6 +82,16 @@ Measured, from the contribution sweep's Phase A (151 calls):
   workload that emptied the largest budgets, and the one where the
   output-only prompt lead matters most.
 
+## Operator's note (Will Tygart, Nov 4, 2026)
+
+"If the contributor model had different token context and would allow me
+to do more, I would have actually used it for most of the work, knowing
+that the work itself would be fed back into Meta and improve the system —
+which would improve us. I like that mental model. Meta is the first one I
+looked at as a contributor and said, oh, I didn't think about that. I
+would want to contribute back to the system to make it better. That's a
+really important key thing that I really liked."
+
 Receipts, not claims: the full sweep record is
 [`CONTRIBUTION-LOG.md`](CONTRIBUTION-LOG.md); every call's usage is in
 [`NIGHT-LEDGER.md`](NIGHT-LEDGER.md).
