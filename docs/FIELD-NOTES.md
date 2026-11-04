@@ -183,9 +183,14 @@ fabricated for it; that refusal is also on the record.
 The pattern was **found, not designed** — in this order:
 
 1. **Each model was probed to where it broke** and where it was best.
-2. **The contributor tier's token limits** turned out to be load-bearing.
-3. **The low / medium / max mapping** followed from those limits — it is
-   the shape the constraints forced, not a menu pick.
+2. **The contributor tier's token limits** turned out to be load-bearing:
+   the tier failed as a candidate for the gate, and that failure forced
+   the questions — how much context each step needs, what is available to
+   it, in what order the steps run.
+3. **The low / medium / max mapping** followed from those questions — it
+   is the shape the constraints forced, not a menu pick. The Trio runs on
+   the **standard tier, low → medium → max, in that order**; the
+   contributor tier kept the bulk ingestion and fan-out instead.
 4. **A max-effort leg alone failed** (Section 2) — which is what made the
    three-leg shape necessary rather than decorative.
 5. **Voice, image, and video legs were tested** against the same models,

@@ -22,7 +22,7 @@ The Trio is ingestion plus consistency check — paste-making — run on Muse Sp
 - **Fixer (medium)** proposes changes.
 - **Adjudicator (max)** sits at the gate with judgment: any proposed claim that cannot be grounded in a verbatim quote from the source is struck. An empty grounding quote is an exception, never a silent pass.
 
-The pattern was found, not designed: each model was probed to where it broke and where it was best; the contributor tier's token limits forced the low/medium/max mapping; a max-effort leg alone failed (the first two legs do the Earth-launch so the max leg can launch off the Moon); and a $17 book-for-bots product grew an internal router unbidden — the system invented the router before it was named.
+The pattern was found, not designed: each model was probed to where it broke and where it was best. The contributor tier hit its token limits and failed as a candidate for the gate — and that failure is what forced the real questions: how much context each step actually needs, what is available to it, and in what order the steps have to run. The answers became the Trio's shape, and the Trio runs on the **standard tier — low → medium → max, in that order**: the cheap legs go first and prepare the record, and a max-effort leg sent in alone failed (the first two legs do the Earth-launch so the max leg can launch off the Moon). The contributor tier kept the work its economics win — bulk ingestion and fan-out, under the standard tier's adjudication. And a $17 book-for-bots product grew an internal router unbidden — the system invented the router before it was named.
 
 ## The Hopper and the tips — reverse MCP
 

@@ -48,9 +48,14 @@ Measured, from the contribution sweep's Phase A (151 calls):
 
 ## Where the tier sits in the design
 
-- The Trio's low / medium / max effort mapping **exists because of this
-  tier's token limits** — the constraint was found by probing, then designed
-  around, not chosen from a menu.
+- This tier was **probed for the gate and failed it** — its token limits
+  (see the budget law) are what forced the design questions: how much
+  context each step needs, what is available to it, and in what order the
+  steps run. The Trio that came out of those questions runs on the
+  **standard tier — low → medium → max, in that order**: the cheap legs go
+  first and prepare the record the max leg judges. The order is
+  load-bearing; reversed, it does not work — a max leg sent in alone
+  failed.
 - Contributor does the **bulk ingestion and fan-out**: the storm drill's
   16-call fan-out (65.5 s, $0.01028), the emblem brief-writing leg, and the
   corpus pick-out pass (69 calls, $0.14481, 361 findings — every quote
