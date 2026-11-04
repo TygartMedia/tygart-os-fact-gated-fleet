@@ -7,9 +7,16 @@ Publishing at machine speed breaks facts quietly: a single AI editing pass inven
 
 On the hackathon's credits it produced 2,769 monetization candidates, 2,062 adjudicated fixes, 36 staged work orders, and a mined corpus of 174 session recordings — **$102.50 counted of the $153.31 envelope**, every run receipted. (Counted = every Meta Model API leg that returned usage, summed in the run ledger; legs that returned no usage are recorded as unmetered, not estimated.)
 
+## Vocabulary (the four words everything else uses)
+
+- **Paste** — material that has been ingested and checked: every claim in it grounded in a verbatim quote from its source, anything ungroundable struck. *Not* copy-paste: paste is what checked information is called while it is still unshaped, before any destination has had a say. The Trio makes the paste.
+- **Hopper** — the one intake box the paste collects in. Nothing leaves the hopper until the operator taps Assemble.
+- **Tip** — one destination's accepted shape, named for a cake-decorating tip: paste leaves the hopper only through a tip, so it can only come out in a form that destination already accepts — an import file, a portal form, a UI drive.
+- **Trio** — the three-pass check itself: Scout (low effort) flags, Fixer (medium) drafts, Adjudicator (max) strikes. The proposer never approves its own work.
+
 ## The Trio — paste-making
 
-The Trio is ingestion plus consistency check, run on Muse Spark 1.3 at three reasoning-effort tiers:
+The Trio is ingestion plus consistency check — paste-making — run on Muse Spark 1.3 at three reasoning-effort tiers:
 
 - **Scout (low)** listens and drafts in the field — fast, cheap, honest about what it cannot identify.
 - **Fixer (medium)** proposes changes.
@@ -59,6 +66,7 @@ Receipts, not claims.
 | [`docs/CONTRIBUTION-LOG.md`](docs/CONTRIBUTION-LOG.md) | The 544-call contributor sweep: prompts, tier behavior, red-team findings and the fixes they forced. |
 | [`docs/NIGHT-LEDGER.md`](docs/NIGHT-LEDGER.md) | The master run ledger: every experiment, its question, its cost, its verdict, and where its receipts live — the stats backbone under every number above. |
 | [`docs/CONTRIBUTOR-LESSONS.md`](docs/CONTRIBUTOR-LESSONS.md) | The contributor tier, measured: pricing, the completion-budget law (small budgets buy metered nulls), the ≥7K rule, and where the tier sits in the design — written to be pulled from. |
+| [`docs/FIELD-NOTES.md`](docs/FIELD-NOTES.md) | What the Trio saw, and what it taught us: the emblem round-trip's named cases, the Max-alone failure (Earth-launch, Moon-launch), the recording corpus's strange shapes, the discovery order, and the honest absents — the nuances, kept in one extractable place. |
 | [`docs/FEEDBACK-TO-META.md`](docs/FEEDBACK-TO-META.md) | Structured, measured feedback to Meta from running on the Model API. |
 | [`docs/reverse-mcp-landscape-report.md`](docs/reverse-mcp-landscape-report.md) | Prior-art landscape for the reverse-MCP pattern. |
 | [`docs/ONE-PAGER.html`](docs/ONE-PAGER.html) | The one-page project summary (HTML source of the filed PDF). |
