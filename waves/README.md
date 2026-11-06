@@ -126,7 +126,8 @@ Will's direction for what follows the current experiments:
 | [24](wave-24.md) | Nov 5, 2026 | 1 | 5 (draft/check + 2 probes) | 57,269 | 13 edits + structural patch | Expansion step 10: post 14045 rebuilt as a living comparison (both sheets; draft 35 claims, check 35/35); lineage on the page. Ritual: probe at 800 s HIT 98.6%, at 522 s missed — window bisected |
 | [25](wave-25.md) | Nov 5, 2026 | 0 new (2691, 14045 already worked) | 1 | 19,538 | 3 (the wave-24 reverts) | FINAL WAVE: Sonnet 4.6 settled 1M from the primary source; the sheet's legacy line corrected and wave 24's two cells reverted (incident filed); 2691 scouted (3 items named, unshipped); radon re-run and ritual probes not run — closed on Will's word |
 | [26](wave-26.md) | Nov 5, 2026 | 5 | 15 | 156,637 | 12 | The reopen: 2691 closed (4 edits); radon tail re-run — all 7 items still-open on the sheet's own limits; 14430 editor's note (fixer's rewrite); expansion VA/CT/FL fixes (7), MT/NJ clean. Ritual: 669 s gap, 0 intervening — miss; interval now 669–800 s |
-| **Running total** | | **164** | **362** | **2,997,233** | | |
+| [27](wave-27.md) | Nov 5, 2026 | 8 | 11 (1 empty-packet failure) | 67,931 | 1 | Restoration core tranche 1: 1 edit (8693 drying window), 1 restamp struck, 7 pages zero findings, ~100 NV. Diminishing returns: thinning, near-exhausted at this jurisdiction. Ritual: 743 s gap — HIT 99.4%; interval now 669–743 s |
+| **Running total** | | **172** | **373** | **3,065,164** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
