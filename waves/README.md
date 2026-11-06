@@ -44,7 +44,8 @@ including the failures, as it happens. This directory is that running log.
 | [7](wave-07.md) | Nov 5, 2026 | 10 | 20 (pairs) | 154,204 | 1 | Restamp rule held (zero restamp findings); boundary-case edit on the Cursor note |
 | [8](wave-08.md) | Nov 5, 2026 | 10 | 20 (pairs) | 194,066 | 0 | Coverage mode: zero findings outside the fact sheet's jurisdiction; ~158 claims catalogued |
 | [9](wave-09.md) | Nov 5, 2026 | 10 | 20 (pairs) | 196,260 | 11 | Fixer miss-sweep finds 5 extra; pre-Ultra page rebuilt; 3 residue items logged by name |
-| **Running total** | | **65** | **115** | **924,910** | | |
+| [10](wave-10.md) | Nov 5, 2026 | 20 | 40 (pairs) | 317,764 | 0 | Width 20 held: 40 legs, zero failures, ~283 claims catalogued |
+| **Running total** | | **85** | **155** | **1,242,674** | | |
 
 Model: `muse-spark-1.3-contributor` via the Meta Model API, under a $25 test
 envelope. Adjudication, editing, publishing, and this log: Glint, running the
