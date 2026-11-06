@@ -120,7 +120,8 @@ Will's direction for what follows the current experiments:
 | [18](wave-18.md) | Nov 5, 2026 | 3 | 6 (pairs) | 40,255 | 0 | Expansion step 4: OpenAI sheet earned; 14045's GPT half verified — and its restamp struck again, on new grounds (dated snapshot, per the fixer's class dispute) |
 | [19](wave-19.md) | Nov 5, 2026 | 2 | 6 (pairs + ritual) | 48,284 | 0 | Expansion step 5: Gemini sheet earned (live catalog, 50 models); vendor set closed. First cache ritual: both immediate re-send pairs read 0 cached |
 | [20](wave-20.md) | Nov 5, 2026 | 3 | 8 (pairs + ritual) | 82,257 | 2 | Expansion step 6: first non-vendor sheet (IICRC published facts + desk's own records); the wage study contradicted its own tables twice — both counts mechanically re-verified, both repaired. Ritual: 0 hits again |
-| **Running total** | | **126** | **285** | **2,198,178** | | |
+| [21](wave-21.md) | Nov 5, 2026 | 10 | 22 (pairs + ritual) | 234,686 | 9 | Expansion step 7: radon statute sheet built from ~25 primary sources; 35-item catalogue worked down (6 corrected, 22 verified, 7 open in whole or part). Gapped ritual: still 0 hits |
+| **Running total** | | **136** | **307** | **2,432,864** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
