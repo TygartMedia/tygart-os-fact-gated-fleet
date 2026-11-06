@@ -64,3 +64,23 @@ invention; it is **unverified agreement**.
    substance, placeholder for every link, prices only as given.
 4. All wiring — PDF builds, link placement, publish — stays with Glint.
    The legs produce verdicts and paste, never doors.
+
+## Correction — Nov 5, 2026 (same day, after rendered-source verification)
+
+The PAIR-URL "real defect" above is **downgraded: it was an extraction
+artifact, not a PDF defect.** Rendered inspection of the card shows the
+update-history URL wraps at its own hyphen — "…/the-shared-" / "brain-a-
+company-brain-any-model-can-read/" — and reads correctly to a human; the
+card also prints the full URL correctly on one line elsewhere. The
+"the-sharedbrain" string existed only in pdftotext's join (it drops
+line-break hyphens), which the packet's PDF record inherited and both
+the leg and Glint read as ground truth. The follow-up PDF regeneration
+is cancelled — there is nothing to regenerate.
+
+The method verdict survives with one guard added: **a string defect
+flagged from extracted text is a lead, not a catch, until the rendered
+source confirms it** — the extraction-vs-DOM lesson this program has
+now hit in two mediums. Residual truth, lesser but real: machine
+readers that join lines the way pdftotext does will misread a
+mid-slug-wrapped URL, so future cards should not break URLs mid-slug.
+The seeded-trap and zero-invention results are unaffected.
