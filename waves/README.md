@@ -123,7 +123,8 @@ Will's direction for what follows the current experiments:
 | [21](wave-21.md) | Nov 5, 2026 | 10 | 22 (pairs + ritual) | 234,686 | 9 | Expansion step 7: radon statute sheet built from ~25 primary sources; 35-item catalogue worked down (6 corrected, 22 verified, 7 open in whole or part). Gapped ritual: still 0 hits |
 | [22](wave-22.md) | Nov 5, 2026 | 2 | 5 (pairs + ritual) | 69,895 | 15 edits + a full table rebuild | Expansion step 8 (consolidation): wave 1's rate-limits deep tables rebuilt from Anthropic's published standard limits; wave 9's three residue items on 10848 settled; wave 13's follow-on verified already-closed. Ritual: seventh zero |
 | [23](wave-23.md) | Nov 5, 2026 | 20 catalogued / 4 audited | 29 | 261,030 | 2 | Expansion step 9: restoration core catalogued (135 claims; 62% permanently outside public jurisdiction); reduced EPA/CDC/FEMA sheet built and run. Ritual: FIRST HIT — 2,531 of 2,565 cached after a 463 s gap |
-| **Running total** | | **158** | **341** | **2,763,789** | | |
+| [24](wave-24.md) | Nov 5, 2026 | 1 | 5 (draft/check + 2 probes) | 57,269 | 13 edits + structural patch | Expansion step 10: post 14045 rebuilt as a living comparison (both sheets; draft 35 claims, check 35/35); lineage on the page. Ritual: probe at 800 s HIT 98.6%, at 522 s missed — window bisected |
+| **Running total** | | **159** | **346** | **2,821,058** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
