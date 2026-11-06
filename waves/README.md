@@ -59,7 +59,8 @@ outranks a wave that catalogues ten clean pages.
 | [10](wave-10.md) | Nov 5, 2026 | 20 | 40 (pairs) | 317,764 | 0 | Width 20 held: 40 legs, zero failures, ~283 claims catalogued |
 | [11](wave-11.md) | Nov 5, 2026 | 20 | 42 (pairs) | 355,912 | 14 on 2 pages | Timeout hunt: 22,885 reasoning tokens behind an 11-token answer; connector timeout 60s → 300s; ~200 claims catalogued |
 | [12](wave-12.md) | Nov 5, 2026 | 4 | 5 (ladder test) | 44,372 | 0 | Ladder test: seeded ID trap passed silently (href layer missing); zero inventions; its pair-check 'defect' was corrected to an extraction artifact (see wave-12 correction) |
-| **Running total** | | **107** | **202** | **1,642,958** | | |
+| [13](wave-13.md) | Nov 5, 2026 | 2 PDF assets | 8 (pipeline legs) | 91,010 | 2 PDFs produced and live | Glint-touch: 5 batched exceptions across 145 claims; checker contracts took 3 fixes |
+| **Running total** | | **107** | **210** | **1,733,968** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
