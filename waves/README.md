@@ -33,6 +33,18 @@ including the failures, as it happens. This directory is that running log.
 
 ## Ledger
 
+## Program note — Nov 5, 2026, 17:35 PT: the pivot to experiment-first
+
+Waves 1–11 mixed two jobs: auditing the site and testing the pattern.
+From wave 12 on, the program is **testing only** (Will's direction): the
+site is the testbed, not the goal. Coverage counts no longer headline
+these logs. Each wave is an experiment — a named question, a dial pushed
+until something strains or breaks, then the fix — written up as
+hypothesis, method, breakage, fix, verdict. Fixes still ship when real
+findings earn them; a wave that breaks something and teaches us the fix
+outranks a wave that catalogues ten clean pages.
+
+
 | Wave | Date (PT) | Pages | Contributor calls | Tokens | Edits shipped | Held / catalogued |
 |------|-----------|-------|-------------------|--------|---------------|-------------------|
 | [1](wave-01.md) | Nov 5, 2026 | 5 | 5 | 42,226 | 31 findings shipped | 13 NEEDS-VERIFY untouched |
