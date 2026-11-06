@@ -99,7 +99,8 @@ Will's direction for what follows the current experiments:
 | [13](wave-13.md) | Nov 5, 2026 | 2 PDF assets | 8 (pipeline legs) | 91,010 | 2 PDFs produced and live | Glint-touch: 5 batched exceptions across 145 claims; checker contracts took 3 fixes |
 | [14](wave-14.md) | Nov 5, 2026 | 4 (cache test) | 33 | 127,152 | 0 | Cache verdict: real, but rewards repeated sequential prompts — not one-shot parallel fan-outs |
 | [15](wave-15.md) | Nov 5, 2026 | 5 | 10 (pairs) | 65,603 | 0 | Expansion step 1: base loop intact; 1 pair-confirmed restamp struck (half-verified page); jurisdiction is the binding constraint |
-| **Running total** | | **112** | **253** | **1,926,723** | | |
+| [16](wave-16.md) | Nov 5, 2026 | 3 | 6 (pairs) | 45,538 | 3 on 1 page | Expansion step 2: Meta Model API fact sheet earned at Tier-1; the wave-5 refused restamp finally earned and shipped |
+| **Running total** | | **115** | **259** | **1,972,261** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
