@@ -57,10 +57,11 @@ outranks a wave that catalogues ten clean pages.
 | [8](wave-08.md) | Nov 5, 2026 | 10 | 20 (pairs) | 194,066 | 0 | Coverage mode: zero findings outside the fact sheet's jurisdiction; ~158 claims catalogued |
 | [9](wave-09.md) | Nov 5, 2026 | 10 | 20 (pairs) | 196,260 | 11 | Fixer miss-sweep finds 5 extra; pre-Ultra page rebuilt; 3 residue items logged by name |
 | [10](wave-10.md) | Nov 5, 2026 | 20 | 40 (pairs) | 317,764 | 0 | Width 20 held: 40 legs, zero failures, ~283 claims catalogued |
-| [12](wave-12.md) | Nov 5, 2026 | 4 | 5 (ladder test) | 44,372 | 0 | Ladder test: seeded ID trap passed silently (href layer missing); pair-check caught a real PDF defect; zero inventions |
-| **Running total** | | **87** | **160** | **1,287,046** | | |
+| [11](wave-11.md) | Nov 5, 2026 | 20 | 42 (pairs) | 355,912 | 14 on 2 pages | Timeout hunt: 22,885 reasoning tokens behind an 11-token answer; connector timeout 60s → 300s; ~200 claims catalogued |
+| [12](wave-12.md) | Nov 5, 2026 | 4 | 5 (ladder test) | 44,372 | 0 | Ladder test: seeded ID trap passed silently (href layer missing); zero inventions; its pair-check 'defect' was corrected to an extraction artifact (see wave-12 correction) |
+| **Running total** | | **107** | **202** | **1,642,958** | | |
 
-*Wave 11 (20 pages, pairs) ran between waves 10 and 12 and closes separately — its entry and tokens land here when its final two fixer returns complete.*
+*Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
 Model: `muse-spark-1.3-contributor` via the Meta Model API, under a $25 test
 envelope. Adjudication, editing, publishing, and this log: Glint, running the
