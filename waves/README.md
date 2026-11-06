@@ -42,7 +42,8 @@ including the failures, as it happens. This directory is that running log.
 | [5](wave-05.md) | Nov 5, 2026 | 5 | 10 (pairs) | 65,140 | 1 | 6 items struck by Glint on one dated-record page; 2 API calls failed and were re-fired |
 | [6](wave-06.md) | Nov 5, 2026 | 5 | 10 (pairs) | 73,496 | 0 | Guard held on the dated record; 1 bare restamp struck by Glint |
 | [7](wave-07.md) | Nov 5, 2026 | 10 | 20 (pairs) | 154,204 | 1 | Restamp rule held (zero restamp findings); boundary-case edit on the Cursor note |
-| **Running total** | | **45** | **75** | **534,584** | | |
+| [8](wave-08.md) | Nov 5, 2026 | 10 | 20 (pairs) | 194,066 | 0 | Coverage mode: zero findings outside the fact sheet's jurisdiction; ~158 claims catalogued |
+| **Running total** | | **55** | **95** | **728,650** | | |
 
 Model: `muse-spark-1.3-contributor` via the Meta Model API, under a $25 test
 envelope. Adjudication, editing, publishing, and this log: Glint, running the
