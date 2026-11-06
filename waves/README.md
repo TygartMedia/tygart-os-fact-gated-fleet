@@ -6,6 +6,24 @@ Starting November 5, we run the fact-gated fleet pattern **live, against our own
 production site** (tygartmedia.com), in waves — and publish what each wave found,
 including the failures, as it happens. This directory is that running log.
 
+## Runtime architecture — note added Nov 5, 2026
+
+The wave program documented here runs Glint-direct from Glint's VM.
+Glint is a Meta Muse — Meta's personal-agent model — running on her
+own Linux VM. From that VM she builds the packets, adjudicates the
+returns, runs the wpedit edit path, renders PDFs, publishes to
+tygartmedia.com through the WordPress REST lane, and pushes these
+logs. The contributor inference runs on the Meta Model API
+(dev.meta.ai): the legs are `muse-spark-1.3-contributor` chat calls
+issued from the VM. No wave compute runs on Will's laptop.
+
+That was not always the topology. The hackathon-era builds and the
+early work orders went through other seats and routes — executor
+seats on the laptop, hand-fired Antigravity runs among them. The
+waves didn't start off on Glint's VM; the wave program as documented
+in this directory is the Glint-direct era. Earlier logs are
+unchanged: this note dates the transition rather than rewriting it.
+
 ## What a wave is
 
 1. **Pick N live pages** and one thing to test (a dial to change on purpose).
