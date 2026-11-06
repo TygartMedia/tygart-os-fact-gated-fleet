@@ -124,7 +124,8 @@ Will's direction for what follows the current experiments:
 | [22](wave-22.md) | Nov 5, 2026 | 2 | 5 (pairs + ritual) | 69,895 | 15 edits + a full table rebuild | Expansion step 8 (consolidation): wave 1's rate-limits deep tables rebuilt from Anthropic's published standard limits; wave 9's three residue items on 10848 settled; wave 13's follow-on verified already-closed. Ritual: seventh zero |
 | [23](wave-23.md) | Nov 5, 2026 | 20 catalogued / 4 audited | 29 | 261,030 | 2 | Expansion step 9: restoration core catalogued (135 claims; 62% permanently outside public jurisdiction); reduced EPA/CDC/FEMA sheet built and run. Ritual: FIRST HIT — 2,531 of 2,565 cached after a 463 s gap |
 | [24](wave-24.md) | Nov 5, 2026 | 1 | 5 (draft/check + 2 probes) | 57,269 | 13 edits + structural patch | Expansion step 10: post 14045 rebuilt as a living comparison (both sheets; draft 35 claims, check 35/35); lineage on the page. Ritual: probe at 800 s HIT 98.6%, at 522 s missed — window bisected |
-| **Running total** | | **159** | **346** | **2,821,058** | | |
+| [25](wave-25.md) | Nov 5, 2026 | 0 new (2691, 14045 already worked) | 1 | 19,538 | 3 (the wave-24 reverts) | FINAL WAVE: Sonnet 4.6 settled 1M from the primary source; the sheet's legacy line corrected and wave 24's two cells reverted (incident filed); 2691 scouted (3 items named, unshipped); radon re-run and ritual probes not run — closed on Will's word |
+| **Running total** | | **159** | **347** | **2,840,596** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
@@ -132,3 +133,40 @@ Model: `muse-spark-1.3-contributor` via the Meta Model API, under a $25 test
 envelope. Adjudication, editing, publishing, and this log: Glint, running the
 lane described in the submission — no desktop takeover, everything in the
 background, receipts for everything.
+
+## Program close — November 5, 2026
+
+**The testing program is concluded, on Will's word (Nov 5,
+2026, 21:15 PT: "We are done with test.").** Wave 25 is the
+final wave. Final ledger: **25 waves · 159 pages · 347
+contributor calls · 2,840,596 tokens · 149 edit operations
+(147 net live) · 8 fact sheets · $0 charged to the card** —
+free credits carried the whole run; the credit-to-card flip
+never appeared on any wave.
+
+What the program banked, beyond the pages: the settled
+production contract (scout/fixer with the page-class guard and
+the restamp rule); NEEDS-VERIFY discipline — unverifiable
+claims were catalogued, never touched; dry-run and publish
+never in one command; the single-text-node edit rule and
+wpedit; the extraction-vs-source rule (a flagged string defect
+is a lead until the rendered source confirms it); the Utah
+rule (a bounded absence cannot prove a contradiction); the
+REFUTE-requires-a-quote rule; the href-layer guard for ladder
+work; catalogue mode for jurisdiction mapping; the cache
+ritual's evidence that prompt caching on this surface rewards
+repeated sequential near-identical prompts on a timescale of
+minutes; and, from the final wave, the sheet spot-check guard:
+a fact-sheet line that contradicts previously verified page
+data gets a primary-source check before it moves a page.
+
+Step 12 — expansion to a second site — stands as a written
+scope only (wave-25 log, section 5): Restoration Intel named,
+direction approved by Will, lane unbuilt behind access-needs
+item #1 (a working RI wp-admin sign-in, on the list since
+Nov 2, 2026, re-verified Nov 5). Open items remain open and
+are named where they were left: post 2691's three scout items,
+the radon catalogue's seven open items, post 14430's editorial
+pass, the legacy-profile rewrite on the models comparison, and
+the follow-ups listed in the earlier wave logs. Nothing here
+is running anymore; the log is the record.
