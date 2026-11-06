@@ -62,6 +62,25 @@ hypothesis, method, breakage, fix, verdict. Fixes still ship when real
 findings earn them; a wave that breaks something and teaches us the fix
 outranks a wave that catalogues ten clean pages.
 
+## Program note — Nov 5, 2026, 18:36 PT: the arc from here
+
+Will's direction for what follows the current experiments:
+
+1. **Finish the experiment tier** — one or two more waves at most.
+   The live candidates are the flakiness root-cause work and the
+   cache test. The PDF decomposition result stands as proven method,
+   not the ongoing line.
+2. **Reset to the base core** — the plain QC loop: fact-gated audit
+   plus surgical verified edits, the wave 1–3 pattern, as home base.
+   Not the PDFs.
+3. **Expand incrementally from there** — each wave widens the scope
+   one step beyond the last (more of the site, new clusters, new page
+   classes as fact sheets earn jurisdiction), watching how far out it
+   can go before something strains.
+4. **Infrastructure as the expansion demands it** — routers and other
+   machinery enter only when a wave shows the need, never ahead of
+   it. Each wave leaves behind whatever the next width requires.
+
 
 | Wave | Date (PT) | Pages | Contributor calls | Tokens | Edits shipped | Held / catalogued |
 |------|-----------|-------|-------------------|--------|---------------|-------------------|
