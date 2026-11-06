@@ -91,4 +91,8 @@ The demo video is filed with the Cerebral Valley submission and published on the
 The submission closed on November 4, 2026; the experiment didn't. The fleet now
 runs **live waves** against tygartmedia.com — contributor fan-outs, adjudication,
 dry-run-gated publishing — and each wave is logged as it happens, failures
-included: [The Waves](waves/README.md).
+included: [The Waves](waves/README.md). The waves run Glint-direct:
+orchestration is a Meta Muse (Glint) on her own VM, calling
+`muse-spark-1.3-contributor` legs on the Meta Model API — no wave
+compute runs on the laptop (architecture note, Nov 5, 2026, in
+[The Waves](waves/README.md)).
