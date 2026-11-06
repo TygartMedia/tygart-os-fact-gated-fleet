@@ -98,7 +98,8 @@ Will's direction for what follows the current experiments:
 | [12](wave-12.md) | Nov 5, 2026 | 4 | 5 (ladder test) | 44,372 | 0 | Ladder test: seeded ID trap passed silently (href layer missing); zero inventions; its pair-check 'defect' was corrected to an extraction artifact (see wave-12 correction) |
 | [13](wave-13.md) | Nov 5, 2026 | 2 PDF assets | 8 (pipeline legs) | 91,010 | 2 PDFs produced and live | Glint-touch: 5 batched exceptions across 145 claims; checker contracts took 3 fixes |
 | [14](wave-14.md) | Nov 5, 2026 | 4 (cache test) | 33 | 127,152 | 0 | Cache verdict: real, but rewards repeated sequential prompts — not one-shot parallel fan-outs |
-| **Running total** | | **107** | **243** | **1,861,120** | | |
+| [15](wave-15.md) | Nov 5, 2026 | 5 | 10 (pairs) | 65,603 | 0 | Expansion step 1: base loop intact; 1 pair-confirmed restamp struck (half-verified page); jurisdiction is the binding constraint |
+| **Running total** | | **112** | **253** | **1,926,723** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
