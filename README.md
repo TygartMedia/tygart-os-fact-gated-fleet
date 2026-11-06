@@ -85,3 +85,10 @@ No credentials or keys (none exist in any run script — access was surrogate-me
 ## Demo
 
 The demo video is filed with the Cerebral Valley submission and published on the Tygart Media YouTube channel: https://www.youtube.com/watch?v=8xg3_UqEAPk — 2:38: the narrated explainer ending on the verbatim strike, a short bridge, and the 30-second spot. Its on-card spend figure ($102.50) is the closing counted total.
+
+## Live continuation — The Waves
+
+The submission closed on November 4, 2026; the experiment didn't. The fleet now
+runs **live waves** against tygartmedia.com — contributor fan-outs, adjudication,
+dry-run-gated publishing — and each wave is logged as it happens, failures
+included: [The Waves](waves/README.md).
