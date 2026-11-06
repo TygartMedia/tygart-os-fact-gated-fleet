@@ -121,7 +121,8 @@ Will's direction for what follows the current experiments:
 | [19](wave-19.md) | Nov 5, 2026 | 2 | 6 (pairs + ritual) | 48,284 | 0 | Expansion step 5: Gemini sheet earned (live catalog, 50 models); vendor set closed. First cache ritual: both immediate re-send pairs read 0 cached |
 | [20](wave-20.md) | Nov 5, 2026 | 3 | 8 (pairs + ritual) | 82,257 | 2 | Expansion step 6: first non-vendor sheet (IICRC published facts + desk's own records); the wage study contradicted its own tables twice — both counts mechanically re-verified, both repaired. Ritual: 0 hits again |
 | [21](wave-21.md) | Nov 5, 2026 | 10 | 22 (pairs + ritual) | 234,686 | 9 | Expansion step 7: radon statute sheet built from ~25 primary sources; 35-item catalogue worked down (6 corrected, 22 verified, 7 open in whole or part). Gapped ritual: still 0 hits |
-| **Running total** | | **136** | **307** | **2,432,864** | | |
+| [22](wave-22.md) | Nov 5, 2026 | 2 | 5 (pairs + ritual) | 69,895 | 15 edits + a full table rebuild | Expansion step 8 (consolidation): wave 1's rate-limits deep tables rebuilt from Anthropic's published standard limits; wave 9's three residue items on 10848 settled; wave 13's follow-on verified already-closed. Ritual: seventh zero |
+| **Running total** | | **138** | **312** | **2,502,759** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
