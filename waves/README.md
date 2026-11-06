@@ -51,6 +51,22 @@ unchanged: this note dates the transition rather than rewriting it.
 
 ## Ledger
 
+## Program note — Nov 5, 2026, evening: the cache ritual
+
+Will's dashboard tonight reads the account cache rate at over 6.2%
+(up from the 3.4% baseline wave 14 was commissioned against) and
+the free-credit balance at $35.34. Standing method from the next
+wave on: every expansion wave runs a paired cache measurement
+twice — one regular (cold) call on a real wave packet, then the
+identical packet re-sent unchanged and sequentially (the
+genuine-repeat pattern wave 14 proved is the only thing that
+hits). Each wave's log carries the pair table: cold vs cached
+latency, cached tokens read, % of prompt served from cache, and
+the token/time savings across both pairs. Energy, when mentioned
+at all, appears only as a labeled estimate derived from the
+measured savings — it is not directly measurable from here and is
+never reported as a metered figure.
+
 ## Program note — Nov 5, 2026, 17:35 PT: the pivot to experiment-first
 
 Waves 1–11 mixed two jobs: auditing the site and testing the pattern.
