@@ -38,7 +38,8 @@ including the failures, as it happens. This directory is that running log.
 | [1](wave-01.md) | Nov 5, 2026 | 5 | 5 | 42,226 | 31 findings shipped | 13 NEEDS-VERIFY untouched |
 | [2](wave-02.md) | Nov 5, 2026 | 5 | 5 | 28,118 | 8 | 3 misses caught in adjudication |
 | [3](wave-03.md) | Nov 5, 2026 | 10 | 10 | 73,676 | 20 | ~140 claims catalogued NEEDS-VERIFY, none edited |
-| **Running total** | | **20** | **20** | **144,020** | | |
+| [4](wave-04.md) | Nov 5, 2026 | 5 | 15 (trio) | 97,724 | 8 (+3 follow-up) | 1 finding refuted inside the chain; ~120 claims catalogued |
+| **Running total** | | **25** | **35** | **241,744** | | |
 
 Model: `muse-spark-1.3-contributor` via the Meta Model API, under a $25 test
 envelope. Adjudication, editing, publishing, and this log: Glint, running the
