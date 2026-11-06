@@ -57,7 +57,10 @@ outranks a wave that catalogues ten clean pages.
 | [8](wave-08.md) | Nov 5, 2026 | 10 | 20 (pairs) | 194,066 | 0 | Coverage mode: zero findings outside the fact sheet's jurisdiction; ~158 claims catalogued |
 | [9](wave-09.md) | Nov 5, 2026 | 10 | 20 (pairs) | 196,260 | 11 | Fixer miss-sweep finds 5 extra; pre-Ultra page rebuilt; 3 residue items logged by name |
 | [10](wave-10.md) | Nov 5, 2026 | 20 | 40 (pairs) | 317,764 | 0 | Width 20 held: 40 legs, zero failures, ~283 claims catalogued |
-| **Running total** | | **85** | **155** | **1,242,674** | | |
+| [12](wave-12.md) | Nov 5, 2026 | 4 | 5 (ladder test) | 44,372 | 0 | Ladder test: seeded ID trap passed silently (href layer missing); pair-check caught a real PDF defect; zero inventions |
+| **Running total** | | **87** | **160** | **1,287,046** | | |
+
+*Wave 11 (20 pages, pairs) ran between waves 10 and 12 and closes separately — its entry and tokens land here when its final two fixer returns complete.*
 
 Model: `muse-spark-1.3-contributor` via the Meta Model API, under a $25 test
 envelope. Adjudication, editing, publishing, and this log: Glint, running the
