@@ -118,7 +118,8 @@ Will's direction for what follows the current experiments:
 | [16](wave-16.md) | Nov 5, 2026 | 3 | 6 (pairs) | 45,538 | 3 on 1 page | Expansion step 2: Meta Model API fact sheet earned at Tier-1; the wave-5 refused restamp finally earned and shipped |
 | [17](wave-17.md) | Nov 5, 2026 | 3 | 6 (pairs) | 55,121 | 2 + lineage on 1 page | Expansion step 3: xAI sheet earned; wave-3 deferral settled (Grok 4.7); two fixer refutations upheld (build record + unearned restamp) |
 | [18](wave-18.md) | Nov 5, 2026 | 3 | 6 (pairs) | 40,255 | 0 | Expansion step 4: OpenAI sheet earned; 14045's GPT half verified — and its restamp struck again, on new grounds (dated snapshot, per the fixer's class dispute) |
-| **Running total** | | **121** | **271** | **2,067,637** | | |
+| [19](wave-19.md) | Nov 5, 2026 | 2 | 6 (pairs + ritual) | 48,284 | 0 | Expansion step 5: Gemini sheet earned (live catalog, 50 models); vendor set closed. First cache ritual: both immediate re-send pairs read 0 cached |
+| **Running total** | | **123** | **277** | **2,115,921** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
