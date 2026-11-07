@@ -85,6 +85,13 @@ operating rules every later leg runs under.
   bodies: 5 legs, 5 PASS, zero corrective re-runs, every result grep-verified
   on the file before overwrite. After these passes, nothing content-side in
   Wave 1 blocks publish. [MECH-PASSES-LOG.md](MECH-PASSES-LOG.md)
+- **Wave 1 publish — complete (evening).** Ten bodies published live
+  17:42–18:00 PT through Will's own signed-in browser admin session, each
+  verified on its live public URL. The site had no redirect manager, so on
+  Will's 18:01 PT tap the free Redirection plugin (v5.10.1) was installed;
+  **17 of 17 redirects** were created (301, enabled) with 5 of 5 verification
+  visits passing, and stub post 7261 was moved to Trash. Full receipts: the
+  publish addendum at the end of [WAVE-1-LOG.md](WAVE-1-LOG.md).
 
 ## Ledger
 
@@ -125,13 +132,12 @@ wave fires on them after November 20 without a re-earn pass):
 
 ## Status — as of the evening of November 6, 2026
 
-Wave 1's ten merged bodies are staged, ruled, and mechanically corrected.
-Will tapped the path (earn the gap sheets first, then publish Wave 1 and the
-redirects together, 17:26 PT) and the proceed (17:33 and 17:41 PT); **the
-site publish — ten bodies live, 19 source URLs 301'd to ten canonicals, one
-stub deleted — is in flight at the time of this push** and will be logged
-here as a follow-up entry when its receipts land. The programmatic
-app-password lane for this site remains unverified (the saved entry was
-paired with an author-slug username, not the `admin` account — the whole
-story is in the Phase 0b log); the publish runs through Will's own signed-in
-browser admin session instead.
+**Wave 1 is fully complete on the live site.** Bodies published and verified
+live (17:42–18:00 PT, via Will's own signed-in browser admin session — the
+programmatic app-password lane remains unverified and was not needed), the
+Redirection plugin installed on Will's tap, 17 of 17 redirects live, and
+stub post 7261 in Trash. Wave 1 publish receipts are recorded in the
+addendum at the end of [WAVE-1-LOG.md](WAVE-1-LOG.md). Count correction:
+earlier text in this record said 19 source URLs; the executed redirect map
+was **17 unique redirects** — posts 1949 and 1618 had been double-counted.
+Next: Wave 2, when Will fires it.
