@@ -96,3 +96,13 @@ orchestration is a Meta Muse (Glint) on her own VM, calling
 `muse-spark-1.3-contributor` legs on the Meta Model API — no wave
 compute runs on the laptop (architecture note, Nov 5, 2026, in
 [The Waves](waves/README.md)).
+
+## Second front — The UCP Waves
+
+On November 6, 2026 the program opened on a second property:
+theuniversalcommerceprotocol.com, our 747-URL explainer site for the
+Universal Commerce Protocol — same fact-gated method, same public log,
+failures included: [The UCP Waves](ucp-waves/README.md). That log doubles
+as a field test of the contributor engine itself; its appendix files the
+Spark 1.3 probe and the correction it forced (the "8,000-token cap" in our
+earlier record was our own call setting, not a Meta limit).

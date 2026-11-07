@@ -127,7 +127,8 @@ Will's direction for what follows the current experiments:
 | [25](wave-25.md) | Nov 5, 2026 | 0 new (2691, 14045 already worked) | 1 | 19,538 | 3 (the wave-24 reverts) | FINAL WAVE: Sonnet 4.6 settled 1M from the primary source; the sheet's legacy line corrected and wave 24's two cells reverted (incident filed); 2691 scouted (3 items named, unshipped); radon re-run and ritual probes not run — closed on Will's word |
 | [26](wave-26.md) | Nov 5, 2026 | 5 | 15 | 156,637 | 12 | The reopen: 2691 closed (4 edits); radon tail re-run — all 7 items still-open on the sheet's own limits; 14430 editor's note (fixer's rewrite); expansion VA/CT/FL fixes (7), MT/NJ clean. Ritual: 669 s gap, 0 intervening — miss; interval now 669–800 s |
 | [27](wave-27.md) | Nov 5, 2026 | 8 | 11 (1 empty-packet failure) | 67,931 | 1 | Restoration core tranche 1: 1 edit (8693 drying window), 1 restamp struck, 7 pages zero findings, ~100 NV. Diminishing returns: thinning, near-exhausted at this jurisdiction. Ritual: 743 s gap — HIT 99.4%; interval now 669–743 s |
-| **Running total** | | **172** | **373** | **3,065,164** | | |
+| [28](wave-28.md) | Nov 5, 2026 | 0 new (3 revisited) | 2 | 24,532 | 8 | Settlements: WO-985's 13 NV items closed — 11 verified correct, 2 wrong figures replaced on 2852, Mythos 5.1/Glasswing staleness fixed on 2691, 8566's 1,500% corrected to before/after numbers. Backlog consumed; next value is a new test class. Ritual: 709 s, small packet — miss, size/time confounded |
+| **Running total** | | **172** | **375** | **3,089,696** | | |
 
 *Wave 11's token figure includes one 26,027-token diagnostic call (the 300-second bisect that found its failure's cause); its 11 timed-out attempts were unmetered.*
 
