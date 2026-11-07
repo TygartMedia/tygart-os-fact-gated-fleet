@@ -92,6 +92,27 @@ operating rules every later leg runs under.
   **17 of 17 redirects** were created (301, enabled) with 5 of 5 verification
   visits passing, and stub post 7261 was moved to Trash. Full receipts: the
   publish addendum at the end of [WAVE-1-LOG.md](WAVE-1-LOG.md).
+- **Wave 2 — Consolidation, second tranche.** 10 units judged from the
+  candidate scan, 23 legs (F3's two-canonical split took three): **10 of 10
+  MERGE verdicts, 0 KEEP-DISTINCT**, 11 staged bodies, 186 NEEDS-VERIFY
+  items. Both pair-reads convicted on the bodies, and one canonical flipped
+  on body evidence — the SDK pair's canonical moved from 5780 to 5781, the
+  superset. Engine: 23 of 23 calls clean on the first try, reasoning share
+  41%. Two writes needed one corrective leg each (compression, then an
+  overshoot accepted only after a 15-term NEEDS-VERIFY spot-check read zero
+  hits). [WAVE-2-BRIEF.md](WAVE-2-BRIEF.md) · [WAVE-2-LOG.md](WAVE-2-LOG.md)
+- **Wave 2 publish — complete (evening).** Eleven bodies published live
+  18:39–18:59 PT on Will's tap (same disclosed temporary-snippet method as
+  Wave 1, snippet deleted after), each verified on its live public URL —
+  including 5748's illustrative-examples notice, visible under its title,
+  and 1256's full ~2,963-word body. **17 of 17 redirects** created
+  (Redirection total now 34), 5 of 5 verification samples passing. The
+  internal-link retargeting deferred from Wave 1 closed in the same run:
+  across all 738 published posts, the old 6030 URL's hrefs went 14 → 0 and
+  the old 4266 URL's went 7 → 1, the residual being a JSON-LD "url" field
+  in post 4266's own body — not a link, left unchanged under an
+  href-only authorization, and harmless behind its Wave 1 301. Full
+  receipts: the publish addendum at the end of [WAVE-2-LOG.md](WAVE-2-LOG.md).
 
 ## Ledger
 
@@ -104,7 +125,8 @@ table is that file, counted.
 | Wave 1 (incl. E3 corrective) | 21 | 213,775 | 96,539 |
 | Gap sheets 7–8 + re-judgment | 6 | 8,147 | 19,394 |
 | Mechanical passes | 5 | 30,456 | 26,013 |
-| **Program to date** | **47** | **290,080** | **221,319** |
+| Wave 2 (incl. 2 corrective writes) | 23 | 338,392 | 132,078 |
+| **Program to date** | **70** | **628,472** | **353,397** |
 
 (The Spark probe's 19 calls were a separate battery, counted in its own
 findings file.) Cost: contributor-tier pricing is not established on this
@@ -140,4 +162,13 @@ stub post 7261 in Trash. Wave 1 publish receipts are recorded in the
 addendum at the end of [WAVE-1-LOG.md](WAVE-1-LOG.md). Count correction:
 earlier text in this record said 19 source URLs; the executed redirect map
 was **17 unique redirects** — posts 1949 and 1618 had been double-counted.
-Next: Wave 2, when Will fires it.
+
+**Wave 2 is also fully complete on the live site** — staged, published, and
+redirected the same evening (receipts in the addendum at the end of
+[WAVE-2-LOG.md](WAVE-2-LOG.md)), and the internal-link retargeting deferred
+from Wave 1 is closed with it. Program ledger to date: **70 calls, 628,472
+input / 353,397 output tokens, $0 charged, contributor pricing still
+UNVERIFIED.** Waves 1 and 2 together convicted 20 clusters covering ~56
+pages; what remains in the corpus is mostly stubs, news pairs, and
+singletons, so Wave 3 — when Will fires it — is a different kind of work
+(build-outs and dated-item judgment), not another merge wave of this shape.
